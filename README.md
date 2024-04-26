@@ -76,7 +76,7 @@ scadaclassifier = ScadaClassifier(cfg)
 # x1, y1, x2, y2
 pred = scadaclassifier.classify('data_test/U_o6HQ_x.jpg', [1003.3296, 408.51, 1135.36992, 628.59024])
 ```
-Note that need to download model weight and put into the folder model before run inference
+Note that need to create folder model and download model weight and put it into the folder model before run inference
 
 Link_weight: https://drive.google.com/drive/folders/1fGWUVjI_3uYkDL_c8gdbbV8O3h069JBE?usp=sharing
 ### Note
